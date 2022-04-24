@@ -8,9 +8,11 @@ redirect_from:
   - /about.html
 ---
 **Biography**
+
 I received my BS degree in Computer Engineering from Iran University of Science and Technology, Tehran, Iran. I hold a master’s degree from the Sharif University of Technology in Computer Engineering-Computer Architecture. Currently, I am a Ph.D. candidate under the supervision of Prof. Kim in the Department of Electrical and Computer Engineering at the University of Wisconsin–Madison.
 
 **Education**
+
 Ph.D. in Computer Engineering
 2017-present
 University of Wisconsin–Madison.
@@ -24,4 +26,5 @@ Bachelor of Science in Computer Engineering
 Iran University of Science and Technology, Tehran, Iran.
 
 **Research Interests**
+
 My research interest includes energy-quality scalable systems, approximate computing, low power software, and hardware design for embedded devices, Internet-of-Things, and computer architecture.
