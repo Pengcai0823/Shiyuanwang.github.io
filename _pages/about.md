@@ -5,7 +5,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
+Biography
 =
 Shiyuan Wang (Senior Member, IEEE) received the B.Eng. and M.Eng. degrees in electronic and information engineering from Southwest Normal University, Chongqing, China, in 2002 and 2005, respectively, and the Ph.D. degree in circuit and system from Chongqing University, Chongqing, in 2011. He was a Research Associate with Hong Kong Polytechnic University, Hong Kong, from August 2012 to August 2013. He is currently a Professor with the College of Electronic and Information Engineering, Southwest University, Chongqing, China. His research interests include adaptive signal processing, nonlinear dynamics, simultaneous localization and mapping, and bioinformatics.
 
