@@ -7,15 +7,16 @@ redirect_from:
 ---
 Biography
 =
-I received my BS degree in Computer Engineering from Iran University of Science and Technology, Tehran, Iran. I hold a master’s degree from the Sharif University of Technology in Computer Engineering-Computer Architecture. Currently, I am a Ph.D. candidate under the supervision of Prof. Kim in the Department of Electrical and Computer Engineering at the University of Wisconsin–Madison.
+Shiyuan Wang (Senior Member, IEEE) received the B.Eng. and M.Eng. degrees in electronic and information engineering from Southwest Normal University, Chongqing, China, in 2002 and 2005, respectively, and the Ph.D. degree in circuit and system from Chongqing University, Chongqing, in 2011. He was a Research Associate with Hong Kong Polytechnic University, Hong Kong, from August 2012 to August 2013. He is currently a Professor with the College of Electronic and Information Engineering, Southwest University, Chongqing, China. His research interests include adaptive signal processing, nonlinear dynamics, simultaneous localization and mapping, and bioinformatics.
 
 Education
 =
-* Ph.D. in Computer Engineering, University of Wisconsin–Madison, 2017-2022 (expected)
-* Master of Science in Computer Engineering – Computer Architecture, Sharif University of Technology, Tehran, Iran, 2013-2015
-* Bachelor of Science in Computer Engineering, Iran University of Science and Technology, Tehran, Iran, 2009-2013
+* Research Associate of Electronic and Information Engineering, Hong Kong, 2012-2013
+* Ph. D in Circuit and System, Chongqing University, 2008-2011
+* Master of Signal and Information Processing, Southwest University, Chongqing, China, 2002-2005
+* Bachelor of Electronic Information Engineering, Southwest University, Chongqing, China, 1998-2002
 
 
 Research Interests
 =
-My research interest includes energy-quality scalable systems, approximate computing, low power software, and hardware design for embedded devices, Internet-of-Things, and computer architecture.
+His research interests include adaptive signal processing, nonlinear dynamics, simultaneous localization and mapping, and bioinformatics.
