@@ -6,11 +6,11 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en-US"
-title                    : "Setareh Behroozi"
+locale                   : "Chongqing-China"
+title                    : "Lab of Signal Processing and Applications"
 title_separator          : "-"
-name                     : &name "Setareh Behroozi"
-description              : &description "Ph.D. Candidate"
+name                     : &name "Shiyuan Wang"
+description              : &description "Ph.D"
 url                      : https://3tare.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "https://3tare.github.io"
