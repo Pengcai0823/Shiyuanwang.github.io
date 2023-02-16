@@ -1,28 +1,15 @@
-
 ---
-permalink: /
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
+title: "Paper Title Number 1"
+collection: publications
+permalink: /publication/2009-10-01-paper-title-number-1
+excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+date: 2009-10-01
+venue: 'Journal 1'
+paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
+This paper is about the number 1. The number 2 is left for future work.
 
-Biography
-=
-Shiyuan Wang (Senior Member, IEEE) received the B.Eng. and M.Eng. degrees in electronic and information engineering from Southwest Normal University, Chongqing, China, in 2002 and 2005, respectively, and the Ph.D. degree in circuit and system from Chongqing University, Chongqing, in 2011. He was a Research Associate with Hong Kong Polytechnic University, Hong Kong, from August 2012 to August 2013. He is currently a Professor with the College of Electronic and Information Engineering, Southwest University, Chongqing, China. His research interests include adaptive signal processing, nonlinear dynamics, simultaneous localization and mapping, and bioinformatics.
+[Download paper here](http://academicpages.github.io/files/paper1.pdf)
 
-Education
-=
-* Research Associate of Electronic and Information Engineering, Hong Kong, 2012-2013
-* Ph. D in Circuit and System, Chongqing University, 2008-2011
-* Master of Signal and Information Processing, Southwest University, Chongqing, China, 2002-2005
-* Bachelor of Electronic Information Engineering, Southwest University, Chongqing, China, 1998-2002
-
-
-Research Interests
-=
-His research interests include adaptive signal processing, nonlinear dynamics, simultaneous localization and mapping, and bioinformatics.
-
-You can find me in Southwest Univeristy through this link：[Southwest University](http://ceie.swu.edu.cn/info/1019/1022.htm)
-
-
+Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
