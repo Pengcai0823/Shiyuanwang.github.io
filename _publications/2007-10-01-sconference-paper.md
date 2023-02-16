@@ -1,7 +1,7 @@
 ---
 title: "Conference Paper"
 collection: publications
-permalink: /publication/2007-10-01-conference-paper
+permalink: /publication/2007-10-01-sconference-paper
 excerpt: 'These papers are the conference paper and can be found in EI.'
 date: 2007-10-01
 venue: 'Conference Paper'
