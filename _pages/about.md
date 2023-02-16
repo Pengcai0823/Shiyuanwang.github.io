@@ -21,4 +21,4 @@ Research Interests
 =
 His research interests include adaptive signal processing, nonlinear dynamics, simultaneous localization and mapping, and bioinformatics.
 
-You can find me in Southwest Univeristy through this link：http://ceie.swu.edu.cn/info/1019/1022.htm.
+You can find me in Southwest Univeristy through this link：[Southwest University](http://ceie.swu.edu.cn/info/1019/1022.htm)
