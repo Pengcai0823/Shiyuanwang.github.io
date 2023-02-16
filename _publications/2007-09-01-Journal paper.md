@@ -10,17 +10,17 @@ venue: 'Journal'
 ---
 These papers are sourted by year.
 
----
-2023
----
+
+2023:
+
 
 [1] L Peng, T Zhang, S Wang*, G Huang, S Chen: [Diffusion adagrad minimum kernel risk sensitive mean p-power loss algorithm](https://doi.org/10.1016/j.sigpro.2022.108773). Signal Processing.
 
 [2] Q Zhang, S Wang*, D Lin, S Chen: [Robust Affine Projection Tanh Algorithm and Its Performance Analysis](https://doi.org/10.1016/j.sigpro.2022.108749). Signal Processing.
 
----
+
 2022:
----
+
 
 [1] Y Xiao, S Chen, Q Zhang, D Lin, M Shen, J Qian, S Wang*: [Generalized Hyperbolic Tangent Based Random Fourier Conjugate Gradient Filter for Nonlinear Active Noise Contro](https://ieeexplore.ieee.org/document/9992079). IEEE/ACM Transactions on Audio, Speech, and Language Processing.
 
