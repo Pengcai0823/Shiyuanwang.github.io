@@ -1,8 +1,7 @@
 ---
-title: "Teaching experience 1"
+title: "Research"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
 date: 2014-01-01
 location: "City, Country"
 ---
