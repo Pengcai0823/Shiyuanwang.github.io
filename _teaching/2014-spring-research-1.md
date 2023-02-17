@@ -6,12 +6,4 @@ location: "City, Country"
 
 ---
 
-Something Related Knowledge About Kalman Filtering 
-======
-
-Heading 2
-======
-
-Heading 3
-======
 
