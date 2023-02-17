@@ -1,5 +1,7 @@
 ---
 title: "Research"
+type: ""
+venue: ""
 ---
 
 
