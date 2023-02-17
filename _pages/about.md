@@ -16,4 +16,4 @@ Shiyuan Wang (Senior Member, IEEE) received the B.Eng. and M.Eng. degrees in ele
 
 You can find me in Southwest Univeristy through this link：[Southwest University](http://ceie.swu.edu.cn/info/1019/1022.htm)
 
-(../images/group.jpg)
+
