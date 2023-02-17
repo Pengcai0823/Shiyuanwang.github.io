@@ -1,7 +1,7 @@
 ---
 title: "Adaptive filters related technique and theoretic analysis"
-type: "Adaptive filters related technique and theoretic analysis"
-date: 2015-01-01
+type: "Kernel Adaptive filters, Quantized Method, Random Fourier Feature, Theoretic Analysis, Sparse "
+date: 2016-01-01
 location: "City, Country"
 
 ---
